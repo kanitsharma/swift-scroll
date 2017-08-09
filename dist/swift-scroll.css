@@ -1,0 +1,14 @@
+body {
+	overflow: hidden;
+	margin: 0;
+}
+
+#well {
+	transition: 1s cubic-bezier(0.5, 0, 0.5, 1);
+}
+
+.panel {
+	height: 100vh;
+	overflow: hidden;
+	box-sizing: border-box;
+}
