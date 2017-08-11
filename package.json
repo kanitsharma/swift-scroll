@@ -1,6 +1,6 @@
 {
   "name": "swift-scroll",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "One Page Scroll Plugin",
   "main": "dist/swift-scroll,js",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/kanitsharma/swift-scroll.git"
   },
-  "homepage": "https://kanitsharma.github.io/react-scrollnotify/",
+  "homepage": "https://kanitsharma.github.io/swift-scroll",
   "author": "Kanit Sharma",
   "license": "MIT",
   "bugs": {

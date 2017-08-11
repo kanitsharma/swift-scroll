@@ -31,6 +31,6 @@ Include CDNs
   </div>
 ```
 
-[View Demo](https://kanitsharma.github.io/react-scrollnotify)
+[View Demo](https://kanitsharma.github.io/swift-scroll/)
 
 ## Leave me a star if you think it’s cool!
