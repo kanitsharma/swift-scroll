@@ -7,9 +7,20 @@
 ## Usage
 
 ```
+  npm install --save swift-scroll
+```
+```
   Include swift-scroll.css && swift-scroll.js
 ```
+or
 
+Include CDNs
+```
+  https://cdn.jsdelivr.net/npm/swift-scroll/dist/swift-scroll.js
+```
+```
+  https://cdn.jsdelivr.net/npm/swift-scroll/dist/swift-scroll.css
+```
 
 ```html
   <div id="well">
@@ -19,5 +30,7 @@
     ...
   </div>
 ```
+
+[View Demo](https://kanitsharma.github.io/react-scrollnotify)
 
 ## Leave me a star if you think it’s cool!
