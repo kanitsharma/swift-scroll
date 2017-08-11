@@ -15,11 +15,13 @@
 or
 
 Include CDNs
+```html
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swift-scroll/dist/swift-scroll.css">
 ```
-  https://cdn.jsdelivr.net/npm/swift-scroll/dist/swift-scroll.js
-```
-```
-  https://cdn.jsdelivr.net/npm/swift-scroll/dist/swift-scroll.css
+
+And at the end of your body tag
+```html
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/swift-scroll/dist/swift-scroll.js"></script>
 ```
 
 ```html
